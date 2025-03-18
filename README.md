@@ -8,7 +8,7 @@ Thank you for using TimeClock Pro. We're here to help!
 
 ## Need Additional Help?
 Contact us directly:
-- Email: **your_email@example.com**
+- Email: **worktimetrack@gmail.com**
 - Submit an issue here on GitHub: [Create Issue](https://github.com/YOUR-GITHUB-USERNAME/timeclockpro-support/issues/new)
 
 We typically respond within 24-48 hours.
