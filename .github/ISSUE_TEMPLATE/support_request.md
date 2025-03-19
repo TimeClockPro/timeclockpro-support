@@ -2,7 +2,7 @@
 name: Support Request
 about: Request help or report a problem with TimeClock Pro
 title: "[Support Request]: "
-labels: support
+labels: ''
 assignees: ''
 
 ---
@@ -17,15 +17,15 @@ Please clearly describe your issue or request here.
 4. See error/problem '...'
 
 ## Expected Behavior:
-Explain clearly what you expected to happen.
+Clearly describe what you expected to happen.
 
 ## Screenshots or Videos (if applicable):
-You can drag and drop images or videos here.
+Drag and drop images or videos here.
 
 ## Device Information:
 - Device type (e.g., iPhone 14):
 - iOS Version (e.g., iOS 18):
-- App Version (found in App settings):
+- App Version:
 
 ## Additional Context:
 Any other relevant information here.
